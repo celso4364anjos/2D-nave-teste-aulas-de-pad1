@@ -11,6 +11,9 @@ namespace pad1gitteste._2d._0307
         static void Main(string[] args)
         {
             Console.WriteLine("lindo sou eu celso :)");
+            
         }
+
+        
     }
 }
